@@ -1,0 +1,19 @@
+{
+  "enemies": {
+    "wizards": {
+      "HP": 4,
+      "damage": 3,
+      "rate_of_fire": 2,
+      "positions": [
+        [16, 15], [45, 16], [30, 23], [29, 9]
+      ]
+    }
+  },
+  "objects": {
+    "trees": {
+      "positions": [
+        [21, 25], [49, 16], [84, 23]
+      ]
+    }
+  }
+}

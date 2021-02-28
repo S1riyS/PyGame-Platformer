@@ -1,0 +1,19 @@
+{
+  "screen": {
+    "width": 1280,
+    "height": 720,
+    "caption": "Platformer"
+  },
+
+  "display": {
+    "width": 512,
+    "height": 288
+  },
+
+  "tile_map": {
+    "width": 100,
+    "height": 40
+  },
+
+  "FPS": 75
+}
